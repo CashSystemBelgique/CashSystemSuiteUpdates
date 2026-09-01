@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.1",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.1/CashSystem-Suite-Setup.exe",
-    "sha256":  "09E19BF1197BBD03ECB3772000EC4E8001DC4BD45545576E51CABC46001FBD83",
-    "notes":  "Scan des articles a codes internes, un article = plusieurs codes-barres, mise a jour par le tray",
+    "version":  "1.4.2",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.2/CashSystem-Suite-Setup.exe",
+    "sha256":  "A24FFCE76DA4A2F20231213DB5B0A6526CB0ED477ED3D68FD118808FC4A7CEAD",
+    "notes":  "Correction du demarrage du service : le binaire embarque de nouveau le runtime .NET",
     "date":  "2026-09-01",
     "mandatory":  false
 }
