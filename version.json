@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.3",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.3/CashSystem-Suite-Setup.exe",
-    "sha256":  "F6D4D3AB1123EA235171A5DC7133752EC8B90E79A370C76C6B5ED33C3D99BE81",
-    "notes":  "Liste de production, sous-total de marge au Z, numeros de commande a 1 chaque jour, plusieurs codes-barres par article, correctif du scan et du rafraichissement de la grille",
+    "version":  "1.4.4",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.4/CashSystem-Suite-Setup.exe",
+    "sha256":  "43037997C76F7F49319FE179576E22942B442182C8B035D7AE9849EC514447F2",
+    "notes":  "Correction des fichiers verrouilles pendant l\u0027installation et du remplacement du tray par lui-meme",
     "date":  "2026-09-02",
     "mandatory":  false
 }
