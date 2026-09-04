@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.4",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.4/CashSystem-Suite-Setup.exe",
-    "sha256":  "43037997C76F7F49319FE179576E22942B442182C8B035D7AE9849EC514447F2",
-    "notes":  "Correction des fichiers verrouilles pendant l\u0027installation et du remplacement du tray par lui-meme",
-    "date":  "2026-09-02",
+    "version":  "1.4.5",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.5/CashSystem-Suite-Setup.exe",
+    "sha256":  "ED82078EEB47C21E6176383FCBF67E8C54B2EDBD620AFE081FBACDB8959C7A46",
+    "notes":  "Fusion de doublons : les codes-barres sont conserves, et les fusions entre categories ou entre taux de TVA sont signalees",
+    "date":  "2026-09-04",
     "mandatory":  false
 }
