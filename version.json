@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.6",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.6/CashSystem-Suite-Setup.exe",
-    "sha256":  "8CF782991471D6646BD1E9FFABEAA65098E416DAA432AB512368DE51D22EAE56",
-    "notes":  "Correction majeure : les caisses partageaient un seul ticket en vente directe, et une erreur ancienne pouvait empecher la cloture des ventes",
-    "date":  "2026-09-07",
+    "version":  "1.4.7",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.7/CashSystem-Suite-Setup.exe",
+    "sha256":  "C8D6FFEC0B063D4593F5DE0673EC2F4E3377F98C4A555374873FB192AB544C40",
+    "notes":  "Correctif : caisse figee a l\u0027ajout d\u0027une option (groupe lie orphelin)",
+    "date":  "2026-09-09",
     "mandatory":  false
 }
