@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.8",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.8/CashSystem-Suite-Setup.exe",
-    "sha256":  "FF86DBDAA8189A1586F0EC9E7A693CA46EA91AF440294855D57E36687C0ACFD5",
-    "notes":  "Plan de table : Envoyer commande au-dessus d\u0027Encaisser, Annuler et Commande client dans le menu ...",
+    "version":  "1.4.9",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.9/CashSystem-Suite-Setup.exe",
+    "sha256":  "B7BAD31DB02AF4462FE0FB6DDCC89C080FE42D51E04E71D94C3C410AF637D53E",
+    "notes":  "Tablettes figees au chargement corrigees (reconnexion unique) + case Article gratuit",
     "date":  "2026-09-11",
     "mandatory":  false
 }
