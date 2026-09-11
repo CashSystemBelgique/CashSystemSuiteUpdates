@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.7",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.7/CashSystem-Suite-Setup.exe",
-    "sha256":  "C8D6FFEC0B063D4593F5DE0673EC2F4E3377F98C4A555374873FB192AB544C40",
-    "notes":  "Correctif : caisse figee a l\u0027ajout d\u0027une option (groupe lie orphelin)",
-    "date":  "2026-09-09",
+    "version":  "1.4.8",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.8/CashSystem-Suite-Setup.exe",
+    "sha256":  "FF86DBDAA8189A1586F0EC9E7A693CA46EA91AF440294855D57E36687C0ACFD5",
+    "notes":  "Plan de table : Envoyer commande au-dessus d\u0027Encaisser, Annuler et Commande client dans le menu ...",
+    "date":  "2026-09-11",
     "mandatory":  false
 }
