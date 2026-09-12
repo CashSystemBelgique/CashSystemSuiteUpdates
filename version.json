@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.10",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.10/CashSystem-Suite-Setup.exe",
-    "sha256":  "72F40A33CBE8F8D31F5FFE296E0131F586DD18A7B9A91D18A2B48A0A03C22D1C",
-    "notes":  "Correction : la case Imprimer separement ne se recoche plus toute seule",
+    "version":  "1.4.11",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.11/CashSystem-Suite-Setup.exe",
+    "sha256":  "198DB65FE77766E52BAC2FFD68A0D771FEE517D7E6CEE1ED4A934D52934842A0",
+    "notes":  "Boissons regroupees sur un seul ticket, sections dans l\u0027ordre de la carte",
     "date":  "2026-09-12",
     "mandatory":  false
 }
