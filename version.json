@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.9",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.9/CashSystem-Suite-Setup.exe",
-    "sha256":  "B7BAD31DB02AF4462FE0FB6DDCC89C080FE42D51E04E71D94C3C410AF637D53E",
-    "notes":  "Tablettes figees au chargement corrigees (reconnexion unique) + case Article gratuit",
-    "date":  "2026-09-11",
+    "version":  "1.4.10",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.10/CashSystem-Suite-Setup.exe",
+    "sha256":  "72F40A33CBE8F8D31F5FFE296E0131F586DD18A7B9A91D18A2B48A0A03C22D1C",
+    "notes":  "Correction : la case Imprimer separement ne se recoche plus toute seule",
+    "date":  "2026-09-12",
     "mandatory":  false
 }
