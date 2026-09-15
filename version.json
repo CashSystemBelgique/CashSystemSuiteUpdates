@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.11",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.11/CashSystem-Suite-Setup.exe",
-    "sha256":  "198DB65FE77766E52BAC2FFD68A0D771FEE517D7E6CEE1ED4A934D52934842A0",
-    "notes":  "Boissons regroupees sur un seul ticket, sections dans l\u0027ordre de la carte",
-    "date":  "2026-09-12",
+    "version":  "1.4.12",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.12/CashSystem-Suite-Setup.exe",
+    "sha256":  "021FBFDDB9E37A1889463CFB85060D76BB58EBD28D05458EFC91C93AE33EB132",
+    "notes":  "Conditionnement colis : le stock se compte en unites, un colis vendu decompte N unites",
+    "date":  "2026-09-15",
     "mandatory":  false
 }
