@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.12",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.12/CashSystem-Suite-Setup.exe",
-    "sha256":  "021FBFDDB9E37A1889463CFB85060D76BB58EBD28D05458EFC91C93AE33EB132",
-    "notes":  "Conditionnement colis : le stock se compte en unites, un colis vendu decompte N unites",
-    "date":  "2026-09-15",
+    "version":  "1.4.13",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.13/CashSystem-Suite-Setup.exe",
+    "sha256":  "0D58320E2C983058922BBA73818FA8D2FCB79E448AD7B6E5D7B486B4CEF93602",
+    "notes":  "Verrouillage PIN du dashboard + rapport ventes par article + liste des commandes du jour a l\u0027impression",
+    "date":  "2026-09-21",
     "mandatory":  false
 }
