@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.13",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.13/CashSystem-Suite-Setup.exe",
-    "sha256":  "0D58320E2C983058922BBA73818FA8D2FCB79E448AD7B6E5D7B486B4CEF93602",
-    "notes":  "Verrouillage PIN du dashboard + rapport ventes par article + liste des commandes du jour a l\u0027impression",
-    "date":  "2026-09-21",
+    "version":  "1.4.14",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.14/CashSystem-Suite-Setup.exe",
+    "sha256":  "2FED38FCBFE14DC66FEA00077B826622C27AD3A157762E6D4B9A543D976F69B7",
+    "notes":  "Correction du ticket fantome qui revenait apres chaque encaissement, et installeur qui arrete la Suite avant de la remplacer",
+    "date":  "2026-09-22",
     "mandatory":  false
 }
