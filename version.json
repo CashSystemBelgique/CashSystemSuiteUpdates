@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.27",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.27/CashSystem-Suite-Setup.exe",
-    "sha256":  "171E3B6946FBA7BC8114283DF691D71E8C519AAA736192D5973404DC01FEE53F",
-    "notes":  "Mise a jour 1.4.27",
-    "date":  "2026-10-02",
+    "version":  "1.4.28",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.28/CashSystem-Suite-Setup.exe",
+    "sha256":  "38D2A4288D5658F2A6EB3FC91D6F34045891589F35BF27B9E922509FA3F39668",
+    "notes":  "Mode Market : meme colonne ticket que le mode classique",
+    "date":  "2026-10-03",
     "mandatory":  false
 }
