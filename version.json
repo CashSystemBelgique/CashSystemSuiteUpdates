@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.30",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.30/CashSystem-Suite-Setup.exe",
-    "sha256":  "619587BED2140FBE727FABBCC01BA5CDBEED62C2EDAF20C27872F1D104458A15",
-    "notes":  "Quantite d\u0027une ligne (1+6=16, Entree, scan) ; crayon mode edition en Market",
-    "date":  "2026-10-04",
+    "version":  "1.4.31",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.31/CashSystem-Suite-Setup.exe",
+    "sha256":  "C5D72F0B49089751AFE5432590B82E9F4A1BA80998CEFADCCD7F3D4E2369143C",
+    "notes":  "Douchette independante de la langue du clavier Windows",
+    "date":  "2026-10-05",
     "mandatory":  false
 }
