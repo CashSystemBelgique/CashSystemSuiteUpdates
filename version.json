@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.33",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.33/CashSystem-Suite-Setup.exe",
-    "sha256":  "7C07356006C737E330861DF072C62B7F2F76835B930706BFF27EB6C69935E28C",
-    "notes":  "Tiroir-caisse ouvert a chaque paiement en especes",
+    "version":  "1.4.34",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.34/CashSystem-Suite-Setup.exe",
+    "sha256":  "60A1B16C97CCA49F53CCB5A5871EC293C932453087E1099F7B343E1D95080675",
+    "notes":  "Mise a jour 1.4.34",
     "date":  "2026-10-05",
     "mandatory":  false
 }
