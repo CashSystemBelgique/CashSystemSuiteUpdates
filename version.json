@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.42",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.42/CashSystem-Suite-Setup.exe",
-    "sha256":  "2537919BFEE4A11C6BA4A9654E5862F08ECB5EF22CA207D2C41719BEE084DD23",
-    "notes":  "Mise a jour 1.4.42",
+    "version":  "1.4.43",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.43/CashSystem-Suite-Setup.exe",
+    "sha256":  "CCCB6B5B699F09CAB6C4FC98A9630B7715BCDBFECD0D17D330F73F1784F5D8D0",
+    "notes":  "Clavier virtuel : le champ remonte au-dessus du clavier. Ecran cuisine : les bons s\u0027allongent avec leurs lignes, bons des additions payees et commandes annulees retires, bons oublies retires apres 12 h.",
     "date":  "2026-10-06",
     "mandatory":  false
 }
