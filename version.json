@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.43",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.43/CashSystem-Suite-Setup.exe",
-    "sha256":  "CCCB6B5B699F09CAB6C4FC98A9630B7715BCDBFECD0D17D330F73F1784F5D8D0",
-    "notes":  "Clavier virtuel : le champ remonte au-dessus du clavier. Ecran cuisine : les bons s\u0027allongent avec leurs lignes, bons des additions payees et commandes annulees retires, bons oublies retires apres 12 h.",
+    "version":  "1.4.44",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.44/CashSystem-Suite-Setup.exe",
+    "sha256":  "01BD30E6088622A4E4147DF6A9DC55B2F6823F5D4361D76E0C39F65A7BAD4B46",
+    "notes":  "Correctif : l\u0027ecran de paiement se figeait apres l\u0027encaissement d\u0027une commande client.",
     "date":  "2026-10-06",
     "mandatory":  false
 }
