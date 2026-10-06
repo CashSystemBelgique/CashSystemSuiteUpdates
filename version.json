@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.39",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.39/CashSystem-Suite-Setup.exe",
-    "sha256":  "830AFD7D3DC73ADA7B4216E31018F1E9439641BC55F1A253AF9927F7074C8EDA",
-    "notes":  "Commandes clients : annulation, nettoyage des retards, plus aucune commande perdue. Limite de vente par jour par article.",
-    "date":  "2026-10-05",
+    "version":  "1.4.40",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.40/CashSystem-Suite-Setup.exe",
+    "sha256":  "8191043A753FD2D194B0F4C979477EEEDCBABD1FCA944145141365351ED74E54",
+    "notes":  "Mise a jour 1.4.40",
+    "date":  "2026-10-06",
     "mandatory":  false
 }
