@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.44",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.44/CashSystem-Suite-Setup.exe",
-    "sha256":  "01BD30E6088622A4E4147DF6A9DC55B2F6823F5D4361D76E0C39F65A7BAD4B46",
-    "notes":  "Correctif : l\u0027ecran de paiement se figeait apres l\u0027encaissement d\u0027une commande client.",
-    "date":  "2026-10-06",
-    "mandatory":  false
+    "version": "1.4.45",
+    "url": "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.45/CashSystem-Suite-Setup.exe",
+    "sha256": "C1A042C0AE56D0A607DB32CB68914C017B336113E8ACB0CF7A60ABEA67F4088F",
+    "notes": "Prix modifies pris en compte tout de suite sur toutes les caisses ; numero de commande efface reutilise",
+    "date": "2026-10-10",
+    "mandatory": false
 }
