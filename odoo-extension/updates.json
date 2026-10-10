@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "odoo-monnayeur@cashsystem.be": {
+      "updates": [
+        {
+          "version": "0.8.3",
+          "update_link": "https://raw.githubusercontent.com/CashSystemBelgique/CashSystemSuiteUpdates/main/odoo-extension/cashsystem-monnayeur-odoo-0.8.3.xpi",
+          "update_hash": "sha256:df06f474365533be5f46340d78516f2ac82be7921c675baf204621db8abe0d38"
+        }
+      ]
+    }
+  }
+}
