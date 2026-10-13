@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.48",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.48/CashSystem-Suite-Setup.exe",
-    "sha256":  "E3CAD49CEA3755E711EA82AD59563A426F209473C238CEF430BD90911C04DF2E",
-    "notes":  "Bouton Ouvrir le tiroir-caisse (menu des trois points), chaque ouverture tracee dans l\u0027historique.",
+    "version":  "1.4.49",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.49/CashSystem-Suite-Setup.exe",
+    "sha256":  "484E89047C51C76EAA3BE34AAAC9188A255CADEA00834CA8A2B950E81481B7F0",
+    "notes":  "Taille d\u0027affichage automatique : les petits ecrans sont dezoomes pour retrouver la mise en page de reference (reglage par caisse dans Caisses).",
     "date":  "2026-10-13",
     "mandatory":  false
 }
