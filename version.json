@@ -1,8 +1,8 @@
 {
-    "version": "1.4.47",
-    "url": "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.47/CashSystem-Suite-Setup.exe",
-    "sha256": "FC07326808A8DF915611231F94C03E27EED7E7A8616E165EE186796DDFAE0FD4",
-    "notes": "Commandes : achat + commande dans la meme visite, commande payee a la prise (a remettre), code-barres de retrait, ecran Commandes en cartes avec fiche. Remboursement d'une commande payee en especes.",
-    "date": "2026-10-13",
-    "mandatory": false
+    "version":  "1.4.48",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.48/CashSystem-Suite-Setup.exe",
+    "sha256":  "E3CAD49CEA3755E711EA82AD59563A426F209473C238CEF430BD90911C04DF2E",
+    "notes":  "Bouton Ouvrir le tiroir-caisse (menu des trois points), chaque ouverture tracee dans l\u0027historique.",
+    "date":  "2026-10-13",
+    "mandatory":  false
 }
