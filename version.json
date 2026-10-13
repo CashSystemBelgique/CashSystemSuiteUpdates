@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.46",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.46/CashSystem-Suite-Setup.exe",
-    "sha256":  "6C5AF80FD5D942EBF2CC6DCDDBCA89AE502812710A027318B6DC4B7843096836",
-    "notes":  "Cashback : ecran bloque si la carte passe mais que les billets ne sortent pas. Limite du jour : le reste descend au pointage sur toutes les caisses, variantes comprises.",
-    "date":  "2026-10-12",
-    "mandatory":  false
+    "version": "1.4.47",
+    "url": "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.47/CashSystem-Suite-Setup.exe",
+    "sha256": "FC07326808A8DF915611231F94C03E27EED7E7A8616E165EE186796DDFAE0FD4",
+    "notes": "Commandes : achat + commande dans la meme visite, commande payee a la prise (a remettre), code-barres de retrait, ecran Commandes en cartes avec fiche. Remboursement d'une commande payee en especes.",
+    "date": "2026-10-13",
+    "mandatory": false
 }
