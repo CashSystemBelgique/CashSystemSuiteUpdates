@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.53",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.53/CashSystem-Suite-Setup.exe",
-    "sha256":  "0B3190E3F51E9C69A4615A9016B6D15659E7D7AE47A84E3D2EE75DA236086788",
-    "notes":  "Monnayeur : liberation automatique du verrou \u0027autre caisse\u0027 fantome",
-    "date":  "2026-10-16",
+    "version":  "1.4.54",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.54/CashSystem-Suite-Setup.exe",
+    "sha256":  "7B4DE0F9A533DC5DE0F08FC62930D085D06D922286BC3194A7FAB0F6DB9E2258",
+    "notes":  "Mise a jour 1.4.54",
+    "date":  "2026-10-17",
     "mandatory":  false
 }
