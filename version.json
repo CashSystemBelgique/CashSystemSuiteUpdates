@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.55",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.55/CashSystem-Suite-Setup.exe",
-    "sha256":  "FEAA147859BFB4D72E66A1CDF3A2AEF07E1601C474609B4A5199008A196CB1B1",
-    "notes":  "Mise a jour 1.4.55",
-    "date":  "2026-10-17",
+    "version":  "1.4.56",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.56/CashSystem-Suite-Setup.exe",
+    "sha256":  "932F4C8B78ED05D048AB37902B3C88C979555F4D7074662098915A4926281349",
+    "notes":  "Remplissage : montant compte par le monnayeur, jamais laisse ouvert. Paiement : une annulation de purge ne clot plus le paiement suivant.",
+    "date":  "2026-10-18",
     "mandatory":  false
 }
