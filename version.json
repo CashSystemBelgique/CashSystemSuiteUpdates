@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.57",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.57/CashSystem-Suite-Setup.exe",
-    "sha256":  "BF622F5A3343C893604142171841B025CE9F5E1A2F3262BB4965950EE04D734A",
-    "notes":  "Vente payee : vendeuse et caisse conservees. Correction du moyen de paiement d\u0027une vente payee. Session PIN separee par caisse. Monnayeur retrouve meme si son adresse a change.",
+    "version":  "1.4.58",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.58/CashSystem-Suite-Setup.exe",
+    "sha256":  "7C141C0BF6BA494CF768B381B05772346D1ACA4DE17DF8317994B97E65FD2123",
+    "notes":  "Tablettes : le bouton camera scanne les codes-barres par l\u0027appli tablette CashKiosk (nouvelle version de l\u0027appli requise).",
     "date":  "2026-10-23",
     "mandatory":  false
 }
