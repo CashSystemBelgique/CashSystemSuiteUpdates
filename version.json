@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.67",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.67/CashSystem-Suite-Setup.exe",
-    "sha256":  "B93981A0C5ACB7F619610A0714211EC1F52A82A6DD433CC64D68521CD4FC0EFF",
-    "notes":  "Mise a jour 1.4.67",
-    "date":  "2026-10-29",
+    "version":  "1.4.68",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.68/CashSystem-Suite-Setup.exe",
+    "sha256":  "69C6827E37520702D40F9A854F9F3FE2192C335530366C2282D069C36D154233",
+    "notes":  "Menu QR : menu web a QR code genere depuis la caisse (prix toujours a jour), ecran Menu QR et affichette a imprimer",
+    "date":  "2026-10-30",
     "mandatory":  false
 }
