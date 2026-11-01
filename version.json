@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.70",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.70/CashSystem-Suite-Setup.exe",
-    "sha256":  "51A0DA577D08E7B7BDB0FD7E63350F671EB676781E95ACA04F7E9E8F12A927B4",
-    "notes":  "Mise a jour 1.4.70",
-    "date":  "2026-10-31",
+    "version":  "1.4.71",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.71/CashSystem-Suite-Setup.exe",
+    "sha256":  "3818973ADB498E1827A6BD274CF272AC47E4E1E9E6B4E6A3B5EB6AF3B648508B",
+    "notes":  "Commande client : choisir combien de pieces d\u0027une ligne partent en commande",
+    "date":  "2026-11-01",
     "mandatory":  false
 }
