@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.71",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.71/CashSystem-Suite-Setup.exe",
-    "sha256":  "3818973ADB498E1827A6BD274CF272AC47E4E1E9E6B4E6A3B5EB6AF3B648508B",
-    "notes":  "Commande client : choisir combien de pieces d\u0027une ligne partent en commande",
-    "date":  "2026-11-01",
+    "version":  "1.4.72",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.72/CashSystem-Suite-Setup.exe",
+    "sha256":  "691ABCD2E6AF3EDCE0E04EBCC1560C1C9CD3D442A50DEBFBD3236036AB25D144",
+    "notes":  "Decaissement : la Suite attend la fin de la distribution meme pour un gros montant. Ticket d\u0027une commande deplacee a un autre jour retrouve au scan.",
+    "date":  "2026-11-02",
     "mandatory":  false
 }
