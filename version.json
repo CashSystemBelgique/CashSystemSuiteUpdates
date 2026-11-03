@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.74",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.74/CashSystem-Suite-Setup.exe",
-    "sha256":  "A92D4D6B26E1F734E7985E1137A50983257BFD0B6FAB5242D1C595933E674CD9",
-    "notes":  "Commandes payees a la prise protegees (ne disparaissent plus du calendrier apres le Z)",
+    "version":  "1.4.75",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.75/CashSystem-Suite-Setup.exe",
+    "sha256":  "1E0561F75D322E8256887AD26E7D7DC81120ADA410A52567DD5A38F2B2E05613",
+    "notes":  "Mise a jour 1.4.75",
     "date":  "2026-11-03",
     "mandatory":  false
 }
