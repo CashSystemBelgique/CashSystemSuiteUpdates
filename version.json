@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.90",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.90/CashSystem-Suite-Setup.exe",
-    "sha256":  "0C21C4A3CF7DD745F16B7B5EA95919D5061E66B7FA2276BF93C1127F37E58E96",
-    "notes":  "Mise a jour 1.4.90",
+    "version":  "1.4.91",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.91/CashSystem-Suite-Setup.exe",
+    "sha256":  "5FBE92AA495F09D45BA5C3C86812CD274ECBBCB8A6E7EAD1C952C0F7845077F2",
+    "notes":  "Mise a jour 1.4.91",
     "date":  "2026-11-06",
     "mandatory":  false
 }
