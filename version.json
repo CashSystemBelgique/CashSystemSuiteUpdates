@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.96",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.96/CashSystem-Suite-Setup.exe",
-    "sha256":  "75EC10D4710645E8F51BE1215540520084DDAE51D7964506445DC37B311FA2DD",
-    "notes":  "Mise a jour 1.4.96",
+    "version":  "1.4.97",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.97/CashSystem-Suite-Setup.exe",
+    "sha256":  "684CC545D6F6E8F7C1D5258D5D05034BBDCF34B226DE22544CDF1601A380F606",
+    "notes":  "Option : QR Bancontact aussi sur l\u0027ecran du monnayeur (WPF 1.0.5.0) ; QR plus net (400/800 px)",
     "date":  "2026-11-07",
     "mandatory":  false
 }
