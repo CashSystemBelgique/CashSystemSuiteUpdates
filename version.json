@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.99",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.99/CashSystem-Suite-Setup.exe",
-    "sha256":  "115A652EC437D775F0994D9792E1E162D6989F42E42369993299769D8C5C3F55",
-    "notes":  "Rapports alignes sur l\u0027heure de cloture (Z le soir : plus de decalage d\u0027un jour)",
+    "version":  "1.4.100",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.100/CashSystem-Suite-Setup.exe",
+    "sha256":  "23B1311475339839823A9EA1930DB89D1C3CDD49AD82BD0A32C3651F1C26CE82",
+    "notes":  "Ardoises : le cloud et l\u0027appli affichent la liste de la caisse (ardoises reglees ou supprimees retirees)",
     "date":  "2026-11-08",
     "mandatory":  false
 }
