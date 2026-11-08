@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.98",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.98/CashSystem-Suite-Setup.exe",
-    "sha256":  "A3024B4CDBD43E0B474DA71BAFC777838A9D964363F0310AE9FAF7FA7709AD74",
-    "notes":  "Rapports : nouvel ecran Chiffre du mois (comparaison, projection, calendrier, annee) ; paiements QR Bancontact distingues",
+    "version":  "1.4.99",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.99/CashSystem-Suite-Setup.exe",
+    "sha256":  "115A652EC437D775F0994D9792E1E162D6989F42E42369993299769D8C5C3F55",
+    "notes":  "Rapports alignes sur l\u0027heure de cloture (Z le soir : plus de decalage d\u0027un jour)",
     "date":  "2026-11-08",
     "mandatory":  false
 }
