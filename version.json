@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.100",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.100/CashSystem-Suite-Setup.exe",
-    "sha256":  "23B1311475339839823A9EA1930DB89D1C3CDD49AD82BD0A32C3651F1C26CE82",
-    "notes":  "Ardoises : le cloud et l\u0027appli affichent la liste de la caisse (ardoises reglees ou supprimees retirees)",
-    "date":  "2026-11-08",
+    "version":  "1.4.101",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.101/CashSystem-Suite-Setup.exe",
+    "sha256":  "2DFDED80EBA85B27440E2D45E8230CB3A57EF6904E732A5B42C50ACB61111DEE",
+    "notes":  "Commandes clients visibles sur le portail et l\u0027appli",
+    "date":  "2026-11-09",
     "mandatory":  false
 }
