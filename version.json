@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.102",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.102/CashSystem-Suite-Setup.exe",
-    "sha256":  "B378C19FCC61AC85906858461BDB88A90BAA92387A00ABF452134D4B3716CEC4",
-    "notes":  "Scanner et borne de prix : lecture des articles garantie apres une coupure du reseau",
+    "version":  "1.4.103",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.103/CashSystem-Suite-Setup.exe",
+    "sha256":  "B77F3C44D46BFC337B0FAC6BC0CC34A598FFA2CCE0EEAF7168026DF583FB44BA",
+    "notes":  "Abonnement : rappels avant l\u0027echeance et verrouillage de la vente a la date de renouvellement",
     "date":  "2026-11-10",
     "mandatory":  false
 }
