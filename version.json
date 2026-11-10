@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.101",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.101/CashSystem-Suite-Setup.exe",
-    "sha256":  "2DFDED80EBA85B27440E2D45E8230CB3A57EF6904E732A5B42C50ACB61111DEE",
-    "notes":  "Commandes clients visibles sur le portail et l\u0027appli",
-    "date":  "2026-11-09",
+    "version":  "1.4.102",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.102/CashSystem-Suite-Setup.exe",
+    "sha256":  "B378C19FCC61AC85906858461BDB88A90BAA92387A00ABF452134D4B3716CEC4",
+    "notes":  "Scanner et borne de prix : lecture des articles garantie apres une coupure du reseau",
+    "date":  "2026-11-10",
     "mandatory":  false
 }
