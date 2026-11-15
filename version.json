@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.104",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.104/CashSystem-Suite-Setup.exe",
-    "sha256":  "15B3FDD18E4976D8447985EDF96CD77548CB705481DFD291997ABA0EB2AB0E65",
-    "notes":  "Clavier a l\u0027ecran : meme comportement sur tablette Android, ecran tactile Windows et PC (clavier du systeme ecarte, bouton clavier, reglage par poste)",
-    "date":  "2026-11-11",
+    "version":  "1.4.105",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.105/CashSystem-Suite-Setup.exe",
+    "sha256":  "86B0C2592229A66B662C098585512EDE507249C1328B41865D2694335F432DA2",
+    "notes":  "Commandes Uber Eats en caisse (options, onglet A emporter, pastille et son). CS50 : correction de l\u0027erreur 13.50AF.",
+    "date":  "2026-11-15",
     "mandatory":  false
 }
