@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.106",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.106/CashSystem-Suite-Setup.exe",
-    "sha256":  "5D7665BCBC1A44C15973F16185A63BEB13CDE19541DD6B67490D3A63ED85A2DD",
-    "notes":  "Licence activee apres l\u0027installation : connexion au cloud sans redemarrer (menu QR, portail). Texte manquant dans une langue : affichage en francais au lieu du nom interne.",
-    "date":  "2026-11-16",
+    "version":  "1.4.107",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.107/CashSystem-Suite-Setup.exe",
+    "sha256":  "CBF171D558D9BA5D8522EBA5EFEEE33DB052AC6A370481B95FFF401982A9F966",
+    "notes":  "Le portail en ligne affiche les ventes par vendeuse, par caisse et les remises (la caisse envoie ces informations avec chaque vente).",
+    "date":  "2026-11-17",
     "mandatory":  false
 }
