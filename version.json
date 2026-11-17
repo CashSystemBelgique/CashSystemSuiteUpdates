@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.107",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.107/CashSystem-Suite-Setup.exe",
-    "sha256":  "CBF171D558D9BA5D8522EBA5EFEEE33DB052AC6A370481B95FFF401982A9F966",
-    "notes":  "Le portail en ligne affiche les ventes par vendeuse, par caisse et les remises (la caisse envoie ces informations avec chaque vente).",
+    "version":  "1.4.108",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.108/CashSystem-Suite-Setup.exe",
+    "sha256":  "A27489F722CCD20A8CFA24244774F3AB27D30D1AC1BBE9A0BA050E5F94B9C4E3",
+    "notes":  "Le portail en ligne affiche le detail complet d\u0027un Z : ardoises, cashback, ventes par vendeuse, par caisse et remises.",
     "date":  "2026-11-17",
     "mandatory":  false
 }
