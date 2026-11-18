@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.109",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.109/CashSystem-Suite-Setup.exe",
-    "sha256":  "3FBF111A315760EA46D1807EF991D90E4F508B33A5494BDB63ACA88C01076DE0",
-    "notes":  "Nouvelle icone Suite (le cube) dans le navigateur, sur l\u0027ecran d\u0027accueil des tablettes et sur le programme.",
-    "date":  "2026-11-17",
+    "version":  "1.4.110",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.110/CashSystem-Suite-Setup.exe",
+    "sha256":  "52CC57941579BA48DBB80F6EC499401BA265EABAEE4C0CF53BEFDCDEABAC7914",
+    "notes":  "Uber Eats : les ruptures de stock suivent sur la carte (le stock part au cloud chaque minute). Ecran Commandes : le nom des articles s\u0027affiche aussi apres un rechargement. Apres une mise a jour, la fenetre de la caisse se relance seule.",
+    "date":  "2026-11-18",
     "mandatory":  false
 }
