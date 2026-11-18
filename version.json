@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.110",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.110/CashSystem-Suite-Setup.exe",
-    "sha256":  "52CC57941579BA48DBB80F6EC499401BA265EABAEE4C0CF53BEFDCDEABAC7914",
-    "notes":  "Uber Eats : les ruptures de stock suivent sur la carte (le stock part au cloud chaque minute). Ecran Commandes : le nom des articles s\u0027affiche aussi apres un rechargement. Apres une mise a jour, la fenetre de la caisse se relance seule.",
+    "version":  "1.4.111",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.111/CashSystem-Suite-Setup.exe",
+    "sha256":  "E9A6D6F8E3166461F095B722948FE9F1F806E5E7B3832981E1F9E30C6675CCCA",
+    "notes":  "Ecran de commande : le bouton Monnayeur disparait quand le monnayeur est decoche dans Parametres \u003e Paiements (il devient Especes).",
     "date":  "2026-11-18",
     "mandatory":  false
 }
