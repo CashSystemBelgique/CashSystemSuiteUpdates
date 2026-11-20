@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.111",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.111/CashSystem-Suite-Setup.exe",
-    "sha256":  "E9A6D6F8E3166461F095B722948FE9F1F806E5E7B3832981E1F9E30C6675CCCA",
-    "notes":  "Ecran de commande : le bouton Monnayeur disparait quand le monnayeur est decoche dans Parametres \u003e Paiements (il devient Especes).",
-    "date":  "2026-11-18",
+    "version":  "1.4.112",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.112/CashSystem-Suite-Setup.exe",
+    "sha256":  "ABC26050496D96B8A5A96CB7BC12005DBDD8DB105BA9088EF9BB24F189DFAE72",
+    "notes":  "Mise a jour 1.4.112",
+    "date":  "2026-11-20",
     "mandatory":  false
 }
