@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.116",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.116/CashSystem-Suite-Setup.exe",
-    "sha256":  "6D06FFC2234CDE95488D8732A038ECE2E49D9B1D7D0865406A7E46F2DCB2FFC5",
-    "notes":  "Mes ventes : libelles Especes / Carte lisibles sur la fenetre employe",
+    "version":  "1.4.117",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.117/CashSystem-Suite-Setup.exe",
+    "sha256":  "D0CF47B721276B40989B9C250155E2580E1455848D649794D81617B6CCAAF06C",
+    "notes":  "Mes ventes : decaissements de l\u0027employe detailles par motif, lignes Especes et Carte toujours affichees",
     "date":  "2026-11-24",
     "mandatory":  false
 }
