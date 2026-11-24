@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.117",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.117/CashSystem-Suite-Setup.exe",
-    "sha256":  "D0CF47B721276B40989B9C250155E2580E1455848D649794D81617B6CCAAF06C",
-    "notes":  "Mes ventes : decaissements de l\u0027employe detailles par motif, lignes Especes et Carte toujours affichees",
+    "version":  "1.4.118",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.118/CashSystem-Suite-Setup.exe",
+    "sha256":  "4FB9ABED136B94C3A81B17AA9FCC0152E4767B77C76CDCDB045EA9B0E9286928",
+    "notes":  "Page de paiement : tout tient dans l\u0027ecran, moyens de paiement en tuiles, fenetre especes reorganisee (raccourcis a gauche, a rendre sous le clavier)",
     "date":  "2026-11-24",
     "mandatory":  false
 }
