@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.114",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.114/CashSystem-Suite-Setup.exe",
-    "sha256":  "E60E774E20AF1A7A31A5791D03AFD5B1E396268613F860EDE1FA6B5D81234AC6",
-    "notes":  "Rapports : le tableau Ventes par vendeur des X et Z peut etre masque (Parametres societe)",
+    "version":  "1.4.115",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.115/CashSystem-Suite-Setup.exe",
+    "sha256":  "DCEB21D047A1F73FED87B744D2007D9C34F4B15EF5A2601B4499120464707AB6",
+    "notes":  "Fenetre employe : Mes ventes (reglage dans Parametres societe) ; boutons Inventaire et Check-out affiches seulement s\u0027ils sont actives dans la fiche de l\u0027employe",
     "date":  "2026-11-24",
     "mandatory":  false
 }
