@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.118",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.118/CashSystem-Suite-Setup.exe",
-    "sha256":  "4FB9ABED136B94C3A81B17AA9FCC0152E4767B77C76CDCDB045EA9B0E9286928",
-    "notes":  "Page de paiement : tout tient dans l\u0027ecran, moyens de paiement en tuiles, fenetre especes reorganisee (raccourcis a gauche, a rendre sous le clavier)",
+    "version":  "1.4.119",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.119/CashSystem-Suite-Setup.exe",
+    "sha256":  "2917147D892CD0878F6E7DE9EF873DDD113710C7380497C94CB1D993BADFC835",
+    "notes":  "Caisse : le bouton ... au-dessus du ticket reste visible meme avec un nom de vendeur",
     "date":  "2026-11-24",
     "mandatory":  false
 }
