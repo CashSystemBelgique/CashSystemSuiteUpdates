@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.112",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.112/CashSystem-Suite-Setup.exe",
-    "sha256":  "ABC26050496D96B8A5A96CB7BC12005DBDD8DB105BA9088EF9BB24F189DFAE72",
-    "notes":  "Mise a jour 1.4.112",
-    "date":  "2026-11-20",
+    "version":  "1.4.113",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.113/CashSystem-Suite-Setup.exe",
+    "sha256":  "9913F856FEF28EFB7225E12760018F7EA16CB111C474AF720A3AB308D50B1BC9",
+    "notes":  "Caisse : sans vendeur obligatoire, le ticket prend automatiquement le nom affiche en haut a droite (table et vente directe)",
+    "date":  "2026-11-24",
     "mandatory":  false
 }
