@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.119",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.119/CashSystem-Suite-Setup.exe",
-    "sha256":  "2917147D892CD0878F6E7DE9EF873DDD113710C7380497C94CB1D993BADFC835",
-    "notes":  "Caisse : le bouton ... au-dessus du ticket reste visible meme avec un nom de vendeur",
-    "date":  "2026-11-24",
+    "version":  "1.4.120",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.120/CashSystem-Suite-Setup.exe",
+    "sha256":  "0E35C40E180D036923B8D971EC6561513B97F34D6423D54FDA3E8953D09C9B11",
+    "notes":  "Vente directe : en mode plan de salle, le bouton Sortir ramene au plan de salle et non au tableau de bord.",
+    "date":  "2026-11-25",
     "mandatory":  false
 }
