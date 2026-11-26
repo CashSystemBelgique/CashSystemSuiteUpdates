@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.120",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.120/CashSystem-Suite-Setup.exe",
-    "sha256":  "0E35C40E180D036923B8D971EC6561513B97F34D6423D54FDA3E8953D09C9B11",
-    "notes":  "Vente directe : en mode plan de salle, le bouton Sortir ramene au plan de salle et non au tableau de bord.",
-    "date":  "2026-11-25",
+    "version":  "1.4.121",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.121/CashSystem-Suite-Setup.exe",
+    "sha256":  "84C0B3DA2AADD0E8C137D02A60FAC5133153DA7E66C690B07E55D5FD4196DB8E",
+    "notes":  "Mise a jour 1.4.121",
+    "date":  "2026-11-26",
     "mandatory":  false
 }
