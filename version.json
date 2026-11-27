@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.124",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.124/CashSystem-Suite-Setup.exe",
-    "sha256":  "88F5D3E4C11308137F94C5AE7136CE93912AFD018A6FE9BE44B6355FEEFBEE4E",
-    "notes":  "CashDro : decaissement et cashback sortis par la machine",
+    "version":  "1.4.125",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.125/CashSystem-Suite-Setup.exe",
+    "sha256":  "A1DED9FA725CD0F2601AAD2D3E7ADF166E4B277C7F38B4865C4F62E9BB0E73B8",
+    "notes":  "CashDro : decaissement, cashback et remboursements sortis par la machine",
     "date":  "2026-11-27",
     "mandatory":  false
 }
