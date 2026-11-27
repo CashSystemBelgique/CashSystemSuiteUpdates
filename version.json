@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.127",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.127/CashSystem-Suite-Setup.exe",
-    "sha256":  "B1881B542920775FA78CE70C4275F4973625AE434A2D5022F462D582D8D2D4A3",
-    "notes":  "CashDro : bouton Remplir sur le badge Monnayeur",
+    "version":  "1.4.128",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.128/CashSystem-Suite-Setup.exe",
+    "sha256":  "2F2DC8D9635E1ADCE3FAF5E1C48A894574FC2DEAA8D39BC9A1A67DF9456BA815",
+    "notes":  "Terminal carte CCV / Verifone (OPI)",
     "date":  "2026-11-27",
     "mandatory":  false
 }
