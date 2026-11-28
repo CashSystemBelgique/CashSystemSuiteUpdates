@@ -1,8 +1,8 @@
 {
-    "version":  "1.4.128",
-    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.128/CashSystem-Suite-Setup.exe",
-    "sha256":  "2F2DC8D9635E1ADCE3FAF5E1C48A894574FC2DEAA8D39BC9A1A67DF9456BA815",
-    "notes":  "Terminal carte CCV / Verifone (OPI)",
-    "date":  "2026-11-27",
+    "version":  "1.4.129",
+    "url":  "https://github.com/CashSystemBelgique/CashSystemSuiteUpdates/releases/download/v1.4.129/CashSystem-Suite-Setup.exe",
+    "sha256":  "3FB1A36CC3B3A4E254E9218B6DEB80019B23EC9CFB2D8A46E119639D65867E7A",
+    "notes":  "Mise a jour 1.4.129",
+    "date":  "2026-11-28",
     "mandatory":  false
 }
